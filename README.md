@@ -4,7 +4,7 @@
 
 ## I'm a .NET/C# Developer.
 
-(https://i.pinimg.com/originals/26/d0/df/26d0df9075d59fdc7a3a1da2a99ab358.gif)
+##(https://i.pinimg.com/originals/26/d0/df/26d0df9075d59fdc7a3a1da2a99ab358.gif)
 
 -  I’m currently learning everything 
 -  I’m looking to collaborate with other content creators
