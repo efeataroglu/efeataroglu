@@ -1,4 +1,4 @@
-<img width="600" align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/35d0ca41474775.57a7e879592f8.gif">
+
 <h1 align="center">Hi 👋, I'm Efe.</h1>
 <h3 align="center">Junior Frontend Developer</h3>
 
