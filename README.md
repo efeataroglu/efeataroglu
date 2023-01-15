@@ -1,13 +1,7 @@
 <h1 align="center">Hi, I'm Efe.</h1>
-<h3 align="center">Jr. Frontend Developer</h3>
+<h3 align="center">Jr.Frontend Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/efeataroglu" target="blank"><img src="https://img.shields.io/twitter/follow/efeataroglu?logo=twitter&style=for-the-badge" alt="efeataroglu" /></a> </p>
-
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **JavaScript and CSS3**
-
-- 📫 How to reach me **atarogluefe@gmail.com**
+<p>Hello, my name is Efe. I am a Frontend developer, creating the user-facing side of websites and writing the necessary codes to implement design. I use languages such as HTML, CSS, and JavaScript to determine the appearance and behavior of websites. Additionally, I use responsive design and tools to optimize the user experience. I realize the visual and functional features of websites using inputs from the design team and backend developers.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
