@@ -1,15 +1,15 @@
-<h1 align="center">Hi, I'm Efe.</h1>
-<h3 align="center">Jr.Frontend Developer</h3>
+<h1>Hi, I'm Efe.</h1>
+<h3>Junior Frontend Developer 🥷</h3>
 
-<p>Hello, my name is Efe. I am a Frontend developer, creating the user-facing side of websites and writing the necessary codes to implement design. I use languages such as HTML, CSS, and JavaScript to determine the appearance and behavior of websites. Additionally, I use responsive design and tools to optimize the user experience. I realize the visual and functional features of websites using inputs from the design team and backend team.</p>
+<p>I am a Junior Frontend developer, creating the user-facing side of websites and writing the necessary codes to implement design. I use languages such as HTML, CSS, and JavaScript to determine the appearance and behavior of websites. Additionally, I use responsive design and tools to optimize the user experience. I realize the visual and functional features of websites using inputs from the 🌌 design 🏳️‍🌈 team and 🤖 backend team. 🦾</p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/efeataroglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="efeataroglu" height="30" width="40" /></a>
 <a href="https://instagram.com/efeataroglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="efeataroglu" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
