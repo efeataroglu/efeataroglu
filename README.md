@@ -1,7 +1,7 @@
 <h1>Hi, I'm Efe.</h1>
-<h3>Junior Frontend Developer 🥷</h3>
+<h3>Frontend Developer 🥷</h3>
 
-<p>I am a Junior Frontend developer, creating the user-facing side of websites and writing the necessary codes to implement design. I use languages such as HTML, CSS, and JavaScript to determine the appearance and behavior of websites. Additionally, I use responsive design and tools to optimize the user experience. I realize the visual and functional features of websites using inputs from the 🌌 design 🏳️‍🌈 team and 🤖 backend team. 🦾</p>
+<p>I am a Frontend developer, creating the user-facing side of websites and writing the necessary codes to implement design. I use languages such as HTML, CSS, and JavaScript to determine the appearance and behavior of websites. Additionally, I use responsive design and tools to optimize the user experience. I realize the visual and functional features of websites using inputs from the 🌌 design 🏳️‍🌈 team and 🤖 backend team. 🦾</p>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
