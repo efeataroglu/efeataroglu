@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Efe, Oracle PL/SQL Developer, currently living in <b>Izmir, Turkey</b>. </p>
+<p>Welcome to my page! </br> I'm Efe, Junior Software Developer, currently living in <b>Izmir, Turkey</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="oracle" src="https://img.shields.io/badge/-Oracle Database-f80000?style=flat-square&logo=oracle&logoColor=white" />
