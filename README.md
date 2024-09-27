@@ -8,8 +8,8 @@
   <img alt="pl/sql" src="https://img.shields.io/badge/-Oracle PL/SQL-C74634?style=flat-square&logo=oracle&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F1DC56?style=flat-square&logo=javascript&logoColor=383936" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-jQuery-007ACC?style=flat-square&logo=jquery&logoColor=white" />  
-  <img alt="C#" src="https://img.shields.io/badge/-csharp-280068?style=flat-square&logo=csharp&logoColor=white" />
-  <img alt="ASP.NET" src="https://img.shields.io/badge/-ASP.NET-684D95?style=flat-square&logo=.net&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-php-280068?style=flat-square&logo=csharp&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-laravel-684D95?style=flat-square&logo=.net&logoColor=white" />
 </p>
 
 <h3>Where to find me</h3>
