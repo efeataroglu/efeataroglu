@@ -1,15 +1,14 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Efe, Frontend Developer, currently living in <b>Izmir, Turkey</b>. </p>
+<p>Welcome to my page! </br> I'm Efe, Software Developer, currently living in <b>Izmir, Turkey</b>. </p>
 <h3>Things I code with</h3>
 <p>
-  <img alt="HTML" src="https://img.shields.io/badge/-HTML-e54c21?style=flat-square&logo=html5&logoColor=white" />  
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS-254ce4?style=flat-square&logo=css3&logoColor=white" />  
+  <img alt="Oracle Database" src="https://custom-icon-badges.demolab.com/badge/Oracle%20Database-F80000?logo=oracle&logoColor=white" />
+  <img alt="Oracle SQL" src="https://custom-icon-badges.demolab.com/badge/Oracle%20SQL-F80000?logo=oracle&logoColor=white" />
+  <img alt="Oracle PL/SQL" src="https://custom-icon-badges.demolab.com/badge/Oracle%20PL/SQL-F80000?logo=oracle&logoColor=white" />
+  <img alt="Oracle APEX" src="https://custom-icon-badges.demolab.com/badge/Oracle%20APEX-F80000?logo=oracle&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-fcdc00?style=flat-square&logo=javascript&logoColor=181818" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=ffffff" />
-  <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-007ACC?style=flat-square&logo=jquery&logoColor=white" />   
-  <img alt="React" src="https://img.shields.io/badge/-React-23272F?style=flat-square&logo=react&logoColor=#58C4DC" />
 </p>
 
 <h3>Where to find me</h3>
