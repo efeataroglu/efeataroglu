@@ -11,6 +11,8 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-fcdc00?style=flat-square&logo=javascript&logoColor=181818" />
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efeataroglu&layout=compact)
+
 <h3>Where to find me</h3>
 <p></a> <a href="https://twitter.com/efeataroglu" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 </p>
